@@ -56,7 +56,7 @@ echo " "
 echo " "
 echo  " "
 
-echo -e "$Red  /->$Blue Id my Telegram $Red=$Green @tacklorix \n\n $Red/->$Blue Id Channel Telegram $Red=$Green @Filtering_Hacking " 
+echo -e "$Red  /->$Blue Id my Telegram $Red=$Green @SARHANG_HRX \n\n $Red/->$Blue Id Channel Telegram $Red=$Green @SARHANG_HRX " 
 sleep 7.0
 clear
 echo -e "$Red
